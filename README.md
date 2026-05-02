@@ -4,7 +4,7 @@ Sistema de login com PostgreSQL, driver `pg` (ODBC), Prisma ORM e interface Reac
 
 ## 📄 Documentação da tarefa
 
-👉 [tarefa-orm.md](./tarefa-orm.md)
+👉 [tarefa-orm.md](login-system/tarefa-orm.md)
 
 ## Stack
 
